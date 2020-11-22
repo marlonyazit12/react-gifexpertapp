@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,sCACF,CAEA,KACE,YACF,CAEA,MACE,WACF,CAGA,YAAc,SAAU,CAAE,UAAW","file":"main.c7e44725.chunk.css","sourcesContent":["*{\n  font-family: Arial, Helvetica, sans-serif;\n}\n\nbody {\n  padding: 10px;\n}\n\n.card{\n  width: 18rem;\n}\n\n\n.img-banner { width: 30%; height:20%;}"]}
